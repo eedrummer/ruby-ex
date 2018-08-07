@@ -5,7 +5,7 @@ This is a basic ruby application for OpenShift v3 that you can use as a starting
 
 If you'd like to install it, follow [these directions](https://github.com/openshift/ruby-ex/blob/master/README.md#installation).  
 
-The steps in this document assume that you have access to an OpenShift deployment that you can deploy applications on.
+The steps in this document assume that you have access to an OpenShift deployment that you can deploy applications on. Trivial change.
 
 ###Installation: 
 These steps assume your OpenShift deployment has the default set of ImageStreams defined.  Instructions for installing the default ImageStreams are available [here](http://docs.openshift.org/latest/admin_guide/install/first_steps.html).  Instructions for installing the default ImageStreams are available [here](http://docs.openshift.org/latest/admin_guide/install/first_steps.html).  If you are defining the set of ImageStreams now, remember to pass in the proper cluster-admin credentials and to create the ImageStreams in the 'openshift' namespace.
